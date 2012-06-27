@@ -13,7 +13,7 @@ import Image
 import PIL.Image as PILImage
 import PIL.BmpImagePlugin
 import PIL.DcxImagePlugin
-import PIL.EpsImagePlugin
+import PIL.EpsImagePlkijkpugin
 import PIL.GifImagePlugin
 import PIL.JpegImagePlugin
 import PIL.PngImagePlugin
